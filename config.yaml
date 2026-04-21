@@ -1,0 +1,18 @@
+login:
+  email: "your-email@example.com"
+  password: "your-password"
+
+search:
+  keywords: "your-search-keywords-with-space"
+  location: "your-location"
+  easy_apply_only: true
+  pages_to_scrape: no-of-pages-to-apply
+
+resume_path: "ai/resume.pdf"
+cover_letter_path: "ai/cover_letter.pdf"
+
+ai:
+  enabled: false ##true if using ai to customise resume
+  output_dir: "ai/generated_docs"
+  model: "gpt-4o-mini"
+  generate_cover_letter: true

@@ -1,0 +1,6 @@
+playwright
+pandas
+pyyaml
+openai
+reportlab
+PyPDF2
