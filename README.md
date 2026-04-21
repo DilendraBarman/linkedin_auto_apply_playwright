@@ -55,15 +55,15 @@ linkedin-auto-apply_playwright/
 
 ### 1. Clone the Repository
 
-```bash
+```Terminal
 git clone https://github.com/DilendraBarman/linkedin_auto_apply_playwright.git
 cd linkedin_auto_apply_playwright
 ```
 
 ### 2. Install requirements.txt
 
-```bash
-npm install
+```Terminal
+pip install -r requirements.txt
 ```
 
 ## 🔐 Configuration
