@@ -26,7 +26,7 @@ Automate your LinkedIn job applications using Playwright. This project logs into
 ## 📂 Project Structure
 
 ```
-linkedin-auto-apply_playwright/
+linkedin_auto_apply_playwright/
 │── ai/
 │   └── cover_letter_generator.py
 │   └── cover_letter_pdf.py
@@ -40,8 +40,6 @@ linkedin-auto-apply_playwright/
 │   └── search_page.py
 │── utils/
 │   ├── browser.py
-│   ├── jobSearch.ts
-│   └── apply.ts
 │── config.yaml
 │── jobs_applied.csv
 │── main.py
